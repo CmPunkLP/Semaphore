@@ -1,0 +1,15 @@
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\bin\Debug\net5.0\Semaphore.exe
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\bin\Debug\net5.0\Semaphore.deps.json
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\bin\Debug\net5.0\Semaphore.runtimeconfig.json
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\bin\Debug\net5.0\Semaphore.runtimeconfig.dev.json
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\bin\Debug\net5.0\Semaphore.dll
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\bin\Debug\net5.0\Semaphore.pdb
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\obj\Debug\net5.0\Semaphore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\obj\Debug\net5.0\Semaphore.AssemblyInfoInputs.cache
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\obj\Debug\net5.0\Semaphore.AssemblyInfo.cs
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\obj\Debug\net5.0\Semaphore.csproj.CoreCompileInputs.cache
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\obj\Debug\net5.0\Semaphore.dll
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\obj\Debug\net5.0\refint\Semaphore.dll
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\obj\Debug\net5.0\Semaphore.pdb
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\obj\Debug\net5.0\Semaphore.genruntimeconfig.cache
+E:\Study\VS 2022\Semaphore\Semaphore\Semaphore\obj\Debug\net5.0\ref\Semaphore.dll
